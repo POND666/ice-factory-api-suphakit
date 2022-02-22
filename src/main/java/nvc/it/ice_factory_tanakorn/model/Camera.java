@@ -1,4 +1,4 @@
-package nvc.it.ice_factory_tanakorn.model;
+package nvc.it.ice_factory_suphakit.model;
 
 import java.util.ArrayList;
 import java.util.Date;

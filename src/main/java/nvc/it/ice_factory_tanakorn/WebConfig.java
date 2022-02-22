@@ -1,4 +1,4 @@
-package nvc.it.ice_factory_tanakorn;
+package nvc.it.ice_factory_suphakit;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

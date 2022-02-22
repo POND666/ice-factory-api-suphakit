@@ -1,4 +1,4 @@
-package nvc.it.ice_factory_tanakorn;
+package nvc.it.ice_factory_suphakit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.data.mongodb.config.EnableMongoAuditing;
 
 @SpringBootApplication
 @EnableMongoAuditing
-public class IceFactoryTanakornApplication {
+public class IceFactorysuphakitApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IceFactoryTanakornApplication.class, args);
+		SpringApplication.run(IceFactorysuphakitApplication.class, args);
 	}
 
 }

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nvc.it</groupId>
-	<artifactId>ice_factory_tanakorn</artifactId>
+	<artifactId>ice_factory_suphakit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ice_factory_tanakorn</name>
+	<name>ice_factory_suphakit</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
